@@ -10,13 +10,13 @@ Visit the [Senzing Garage Roadmap](https://github.com/orgs/senzing-garage/projec
 
 1. **Q: What does each roadmap column mean?**
 
-   1. *Not accepted* - This feature most likely will not be implemented.
    1. *Requested* - This feature has been identified and will be evaluated for suitability.
       If this feature is of value to you,
       please [vote](#voting) giving it a "thumbs up" and perhaps leave a comment on
       *why* it is important to you.
    1. *Accepted* - This feature has been deemed worthy of development.
       Feel free to add comments on how to properly design the feature.
+   1. *Not accepted* - This feature most likely will not be implemented.
    1. *In progress* - Senzing is actively working on it.
       Comments are still welcome in this phase.
    1. *Delivered* - The feature has become available.
