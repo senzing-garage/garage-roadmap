@@ -10,16 +10,17 @@ Visit the [Senzing Garage Roadmap](https://github.com/orgs/senzing-garage/projec
 
 1. **Q: What does each roadmap column mean?**
 
-    1. *Requested* - This feature has been identified and will be evaluated for suitability.
-    If this feature is of value to you,
-    please [vote](#voting) giving it a "thumbs up" and perhaps leave a comment on
-    *why* it is important to you.
-    1. *Accepted* - This feature has been deemed worthy of development.
-    Feel free to add comments on how to properly design the feature.
-    1. *In progress* - Senzing is actively working on it.
-    Comments are still welcome in this phase.
-    1. *Shipped* - The feature has become available.
-    Once shipped, requests for enhancement should be made in the specific repositories.
+   1. *Not accepted* - This feature most likely will not be implemented.
+   1. *Requested* - This feature has been identified and will be evaluated for suitability.
+      If this feature is of value to you,
+      please [vote](#voting) giving it a "thumbs up" and perhaps leave a comment on
+      *why* it is important to you.
+   1. *Accepted* - This feature has been deemed worthy of development.
+      Feel free to add comments on how to properly design the feature.
+   1. *In progress* - Senzing is actively working on it.
+      Comments are still welcome in this phase.
+   1. *Delivered* - The feature has become available.
+      Once delivered, requests for enhancement should be made in the specific repositories.
 
 1. **Q: Why are no dates given on the Garage Roadmap?**
 
@@ -48,13 +49,13 @@ Visit the [Senzing Garage Roadmap](https://github.com/orgs/senzing-garage/projec
 ## How to request a new feature
 
 1. To request a feature for a given repository:
-    1. Visit the repository
-    1. Click on the "issues" link
-    1. Click on the "New issue" button
-    1. Create a new "Feature request"
+   1. Visit the repository
+   1. Click on the "issues" link
+   1. Click on the "New issue" button
+   1. Create a new "Feature request"
 1. To request a feature that is not tied to a particular Senzing GitHub repository,
    create a new garage-roadmap
-   [feature request](https://github.com/Senzing/garage-roadmap/issues/new?template=feature_request.md).
+   [feature request](https://github.com/senzing-garage/garage-roadmap/issues/new?template=feature_request.md).
 
 ## Voting
 
