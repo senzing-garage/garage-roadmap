@@ -1,10 +1,10 @@
 # garage-roadmap
 
-The [Senzing Garage Roadmap](https://github.com/orgs/senzing-garage/projects/7)
+The [Senzing Garage Roadmap]
 gives a peek into the future of the Senzing Garage.
 It is the public roadmap for requesting and following the growth of the Senzing Garage artifacts.
 
-Visit the [Senzing Garage Roadmap](https://github.com/orgs/senzing-garage/projects/7).
+Visit the [Senzing Garage Roadmap].
 
 ## FAQs
 
@@ -55,12 +55,12 @@ Visit the [Senzing Garage Roadmap](https://github.com/orgs/senzing-garage/projec
    1. Create a new "Feature request"
 1. To request a feature that is not tied to a particular Senzing GitHub repository,
    create a new garage-roadmap
-   [feature request](https://github.com/senzing-garage/garage-roadmap/issues/new?template=feature_request.md).
+   [feature request].
 
 ## Voting
 
 Senzing follows the meaning of
-[GitHub Reaction types](https://developer.github.com/v3/reactions/#reaction-types).
+[GitHub Reaction types].
 Meaning of reactions are used to determine priority:
 
 1. :thumbsup: - Thumbs up. Essentially "+1".  Yes, I want this feature.
@@ -72,3 +72,7 @@ To vote for a feature, add a reaction:
 1. On the initial comment, click "smiley" icon to add a reaction
 
     ![Reaction](docs/images/reaction.png)
+
+[feature request]: https://github.com/senzing-garage/garage-roadmap/issues/new?template=feature_request.md
+[GitHub Reaction types]: https://developer.github.com/v3/reactions/#reaction-types
+[Senzing Garage Roadmap]: https://github.com/orgs/senzing-garage/projects/7
