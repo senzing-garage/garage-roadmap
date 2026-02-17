@@ -7,11 +7,15 @@
   "words": [
     "CCLA",
     "CODEOWNER",
+    "cooldown",
     "ICLA",
+    "kernelsam",
     "Senzing",
     "stackoverflow",
     "thumbsdown",
     "thumbsup"
   ],
-  "ignorePaths": [".git/**"]
+  "ignorePaths": [
+    ".git/**"
+  ]
 }
